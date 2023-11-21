@@ -31,8 +31,9 @@ python vdmx_media_extractor.py [optional arguments]
 
 https://discourse.vidvox.net/t/vdmx-project-media-copier/
 
-MIT License Copyright (c) ProjectileObjects LLC. 2023
-
 ## Troubleshooting:
 
 Make sure Python is 3.8+ 
+
+
+MIT License Copyright (c) ProjectileObjects LLC. 2023
