@@ -26,7 +26,6 @@ python vdmx_media_extractor.py [optional arguments]
 ## Contact:
 
 @ProjectileObjects 
-ProjectileObjects@gmail.com
 
 ## Comments & Community:
 
